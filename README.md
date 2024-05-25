@@ -1,6 +1,3 @@
-Got it! Here's a more concise GitHub Markdown template for documenting your cool Tinder effect without including any code:
-
----
 
 # Cool Tinder Effect
 
