@@ -16,9 +16,6 @@ This project showcases a Tinder-like swipe effect using vanilla JavaScript. User
 - Smooth animations
 - No external dependencies, pure vanilla JavaScript
 
-## Demo
-
-![Tinder Effect Demo](demo.gif)
 
 ## Usage
 
